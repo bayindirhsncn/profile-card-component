@@ -76,3 +76,13 @@ h2 span {
     border-bottom: 1px solid hsl(0, 0%, 59%);
     margin-top: 1.625rem;
 }
+
+
+.attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
